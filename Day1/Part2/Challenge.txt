@@ -1,0 +1,9 @@
+Div class="main-content" 
+<h2> the first Apple laptop cost how much? 
+<span> Answer: </span> </h3>
+
+using jQuery .text() change the answer to $6500. 
+
+Can also use document.querySelector and .innerHTML to avoid jQuery. 
+
+In this challenge I added a button to show the answer on .click()

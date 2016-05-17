@@ -1,0 +1,5 @@
+Part 1: 
+Take Array[1,2,3,4,5] and print the sum in the console. 
+
+Part 2: 
+Use .splice() to enter in the number 6 after the number 2 in the array. 
